@@ -1,3 +1,0 @@
-= A test
-
-This is a test of Asciidoc support
